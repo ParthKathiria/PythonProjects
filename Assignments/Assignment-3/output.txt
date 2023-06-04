@@ -1,3 +1,5 @@
+#Output
+
 Total number of universities => 100
 Available countries => ['USA', 'UNITED KINGDOM', 'JAPAN', 'FRANCE', 'CANADA', 'SWITZERLAND', 'SOUTH KOREA', 'SWEDEN', 'DENMARK', 'GERMANY', 'CHINA', 'AUSTRALIA', 'ISRAEL', 'NETHERLANDS', 'NORWAY', 'SINGAPORE', 'TAIWAN']
 Available continents => ['ASIA', 'AUSTRALIA', 'NORTH AMERICA', 'EUROPE', 'AFRICA']
