@@ -1,3 +1,5 @@
+#univRanking.py
+
 #Defining a general function getInformation
 #rankingFileName set default to "TopUni.csv"
 #capitalsFileName set default to "capitals.csv"
