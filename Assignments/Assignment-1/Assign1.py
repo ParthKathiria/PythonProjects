@@ -4,6 +4,7 @@ EC represents Expenditure Categories
 TPE represents Total previous year expenses
 TCE represents Total current year expenses
 '''
+#Assignment-1
 
 year = int(input("Please enter the year that you want to calculate the personal interest rate for: "))
 EC = int(input("Please enter the number of expenditure categories: "))
