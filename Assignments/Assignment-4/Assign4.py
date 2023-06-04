@@ -1,4 +1,4 @@
-#Tester File
+#Assign4.py
 
 #importing the Flight class
 from Flight import *
