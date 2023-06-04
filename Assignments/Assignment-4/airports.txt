@@ -1,3 +1,5 @@
+#airports.txt ; AIRPORT-CODE,Country,City
+
 YYZ,Canada,Toronto
 YVR,Canada,Vancouver
 YHZ,Canada,Halifax
